@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Madhan 
-### I'm a Passionate Fullstack Wev developer and maverick , from a small town, with the energy to vibe the real world into a paradise using the tech skills
+<h1 align="center"> Hi there 👋 I'm Madhan </h1>
+<h2 align="justify"> I'm a Passionate Fullstack Wev developer and maverick , from a small town, with the energy to vibe the real world into a paradise using the tech skills</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhan-g-p&label=Profile%20views&color=0e75b6&style=flat" alt="madhanagopal" /> </p>
 
