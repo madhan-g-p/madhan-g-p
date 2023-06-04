@@ -13,7 +13,7 @@
 - 💬 Ask me about ... React, Node Js , Postgres , Web Development
 
 <h2>Contact me:</h2>
-<a href="https://www.linkedin.com/in/madhana-gopal/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/>Madhana Gopal</a>
+<a href="https://www.linkedin.com/in/madhana-gopal/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/>Madhana Gopal</a>
 
 ---
 
