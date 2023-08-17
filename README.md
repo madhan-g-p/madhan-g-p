@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working at [@yuvdeekDS](https://github.com/YuvdeekDS)
-- 🌱 I’m currently learning ... PERN stack
+- 🌱 I’m currently learning ... P(M)ERN stack
 - 👯 I’m looking to collaborate on ... Open source Projects and Freelancing
 - 🤔 I’m looking for help with ... Microservices, Video Encoding , Back End services on Java or Python
 - 💬 Ask me about ... React, Node Js , Postgres , Web Development
