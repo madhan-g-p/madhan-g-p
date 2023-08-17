@@ -6,7 +6,7 @@
 <!--**madhan-g-p/madhan-g-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently working on ... a company yet to be named
+- 🔭 I’m currently working at [@yuvdeekDS] (https://github.com/YuvdeekDS)
 - 🌱 I’m currently learning ... PERN stack
 - 👯 I’m looking to collaborate on ... Open source Projects and Freelancing
 - 🤔 I’m looking for help with ... Microservices, Video Encoding , Back End services on Java or Python
