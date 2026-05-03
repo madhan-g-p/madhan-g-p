@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 I'm Madhan </h1>
-<h2 align="justify"> I'm a Passionate Fullstack Web developer, building robust backend systems and developer tools. Currently focused on AI-agent infrastructure with Python and Node.js performance.
+<h2 align="justify"> I'm a Passionate Fullstack Web developer, building robust backend systems and developer tools. Currently focused on AI-agent infrastructure with Python and Node.js.
 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhan-g-p&label=Profile%20views&color=0e75b6&style=flat" alt="madhanagopal" /> </p>
